@@ -1,0 +1,1 @@
+import{j as e,m as a}from"./index-CZ4Hqhx0.js";const r=({children:i,className:t="",delay:o=0,id:n})=>e.jsx(a.section,{id:n,initial:{opacity:0,y:32},whileInView:{opacity:1,y:0},viewport:{once:!0,margin:"-80px"},transition:{duration:.7,delay:o,ease:[.22,1,.36,1]},className:t,children:i});export{r as A};
